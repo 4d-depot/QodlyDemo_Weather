@@ -951,7 +951,7 @@
 					"enableMosaic": true,
 					"enableFlex": false,
 					"flexProps": {
-						"nbOfRows": 4,
+						"nbOfRows": 2,
 						"nbOfColumns": 2
 					}
 				},
@@ -989,7 +989,7 @@
 			"displayName": "Stylebox",
 			"custom": {
 				"contentHeight": 280,
-				"contentWidth": 347
+				"contentWidth": 348
 			},
 			"parent": "jA8IV5o-gT",
 			"hidden": false,

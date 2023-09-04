@@ -1,0 +1,10 @@
+{
+	"classes": [
+		{
+			"name": "hoverButton",
+			"content": "self {\n  display : flex;\n  padding-left : 12px;\n  padding-right : 12px;\n\topacity: 0.6;\n\n}\nself:hover {\n\t\topacity: 0.8;\n}\nself:active {\n\t\topacity: 1;\n}",
+			"parentId": null,
+			"id": "KPntEH8XidlbidDcvacyL"
+		}
+	]
+}
