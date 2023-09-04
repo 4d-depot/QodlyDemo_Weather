@@ -1,0 +1,278 @@
+[
+  {
+    "CountryName": "Netherlands",
+    "CapitalName": "Amsterdam",
+    "CapitalLatitude": "52.35",
+    "CapitalLongitude": "4.916667"
+  },
+  {
+    "CountryName": "Andorra",
+    "CapitalName": "Andorra la Vella",
+    "CapitalLatitude": "42.5",
+    "CapitalLongitude": "1.516667"
+  },
+  {
+    "CountryName": "Greece",
+    "CapitalName": "Athens",
+    "CapitalLatitude": "37.983333333333334",
+    "CapitalLongitude": "23.733333"
+  },
+  {
+    "CountryName": "Serbia",
+    "CapitalName": "Belgrade",
+    "CapitalLatitude": "44.833333333333336",
+    "CapitalLongitude": "20.500000"
+  },
+  {
+    "CountryName": "Germany",
+    "CapitalName": "Berlin",
+    "CapitalLatitude": "52.516666666666666",
+    "CapitalLongitude": "13.400000"
+  },
+  {
+    "CountryName": "Switzerland",
+    "CapitalName": "Bern",
+    "CapitalLatitude": "46.916666666666664",
+    "CapitalLongitude": "7.466667"
+  },
+  {
+    "CountryName": "Slovakia",
+    "CapitalName": "Bratislava",
+    "CapitalLatitude": "48.15",
+    "CapitalLongitude": "17.116667"
+  },
+  {
+    "CountryName": "Belgium",
+    "CapitalName": "Brussels",
+    "CapitalLatitude": "50.833333333333336",
+    "CapitalLongitude": "4.333333"
+  },
+  {
+    "CountryName": "Romania",
+    "CapitalName": "Bucharest",
+    "CapitalLatitude": "44.43333333333333",
+    "CapitalLongitude": "26.100000"
+  },
+  {
+    "CountryName": "Hungary",
+    "CapitalName": "Budapest",
+    "CapitalLatitude": "47.5",
+    "CapitalLongitude": "19.083333"
+  },
+  {
+    "CountryName": "Moldova",
+    "CapitalName": "Chisinau",
+    "CapitalLatitude": "47",
+    "CapitalLongitude": "28.850000"
+  },
+  {
+    "CountryName": "Denmark",
+    "CapitalName": "Copenhagen",
+    "CapitalLatitude": "55.666666666666664",
+    "CapitalLongitude": "12.583333"
+  },
+  {
+    "CountryName": "Ireland",
+    "CapitalName": "Dublin",
+    "CapitalLatitude": "53.31666666666667",
+    "CapitalLongitude": "-6.233333"
+  },
+  {
+    "CountryName": "Finland",
+    "CapitalName": "Helsinki",
+    "CapitalLatitude": "60.166666666666664",
+    "CapitalLongitude": "24.933333"
+  },
+  {
+    "CountryName": "Ukraine",
+    "CapitalName": "Kyiv",
+    "CapitalLatitude": "50.43333333333333",
+    "CapitalLongitude": "30.516667"
+  },
+  {
+    "CountryName": "Portugal",
+    "CapitalName": "Lisbon",
+    "CapitalLatitude": "38.71666666666667",
+    "CapitalLongitude": "-9.133333"
+  },
+  {
+    "CountryName": "Slovenia",
+    "CapitalName": "Ljubljana",
+    "CapitalLatitude": "46.05",
+    "CapitalLongitude": "14.516667"
+  },
+  {
+    "CountryName": "United Kingdom",
+    "CapitalName": "London",
+    "CapitalLatitude": "51.5",
+    "CapitalLongitude": "-0.083333"
+  },
+  {
+    "CountryName": "Luxembourg",
+    "CapitalName": "Luxembourg",
+    "CapitalLatitude": "49.6",
+    "CapitalLongitude": "6.116667"
+  },
+  {
+    "CountryName": "Spain",
+    "CapitalName": "Madrid",
+    "CapitalLatitude": "40.4",
+    "CapitalLongitude": "-3.683333"
+  },
+  {
+    "CountryName": "Belarus",
+    "CapitalName": "Minsk",
+    "CapitalLatitude": "53.9",
+    "CapitalLongitude": "27.566667"
+  },
+  {
+    "CountryName": "Monaco",
+    "CapitalName": "Monaco",
+    "CapitalLatitude": "43.733333333333334",
+    "CapitalLongitude": "7.416667"
+  },
+  {
+    "CountryName": "Russia",
+    "CapitalName": "Moscow",
+    "CapitalLatitude": "55.75",
+    "CapitalLongitude": "37.600000"
+  },
+  {
+    "CountryName": "Northern Cyprus",
+    "CapitalName": "North Nicosia",
+    "CapitalLatitude": "35.183333",
+    "CapitalLongitude": "33.366667"
+  },
+  {
+    "CountryName": "Greenland",
+    "CapitalName": "Nuuk",
+    "CapitalLatitude": "64.18333333333334",
+    "CapitalLongitude": "-51.750000"
+  },
+  {
+    "CountryName": "Norway",
+    "CapitalName": "Oslo",
+    "CapitalLatitude": "59.916666666666664",
+    "CapitalLongitude": "10.750000"
+  },
+  {
+    "CountryName": "France",
+    "CapitalName": "Paris",
+    "CapitalLatitude": "48.86666666666667",
+    "CapitalLongitude": "2.333333"
+  },
+  {
+    "CountryName": "Montenegro",
+    "CapitalName": "Podgorica",
+    "CapitalLatitude": "42.43333333333333",
+    "CapitalLongitude": "19.266667"
+  },
+  {
+    "CountryName": "Czech Republic",
+    "CapitalName": "Prague",
+    "CapitalLatitude": "50.083333333333336",
+    "CapitalLongitude": "14.466667"
+  },
+  {
+    "CountryName": "Iceland",
+    "CapitalName": "Reykjavik",
+    "CapitalLatitude": "64.15",
+    "CapitalLongitude": "-21.950000"
+  },
+  {
+    "CountryName": "Latvia",
+    "CapitalName": "Riga",
+    "CapitalLatitude": "56.95",
+    "CapitalLongitude": "24.100000"
+  },
+  {
+    "CountryName": "Italy",
+    "CapitalName": "Rome",
+    "CapitalLatitude": "41.9",
+    "CapitalLongitude": "12.483333"
+  },
+  {
+    "CountryName": "San Marino",
+    "CapitalName": "San Marino",
+    "CapitalLatitude": "43.93333333333333",
+    "CapitalLongitude": "12.416667"
+  },
+  {
+    "CountryName": "Bosnia and Herzegovina",
+    "CapitalName": "Sarajevo",
+    "CapitalLatitude": "43.86666666666667",
+    "CapitalLongitude": "18.416667"
+  },
+  {
+    "CountryName": "Macedonia",
+    "CapitalName": "Skopje",
+    "CapitalLatitude": "42",
+    "CapitalLongitude": "21.433333"
+  },
+  {
+    "CountryName": "Bulgaria",
+    "CapitalName": "Sofia",
+    "CapitalLatitude": "42.68333333333333",
+    "CapitalLongitude": "23.316667"
+  },
+  {
+    "CountryName": "Sweden",
+    "CapitalName": "Stockholm",
+    "CapitalLatitude": "59.333333333333336",
+    "CapitalLongitude": "18.050000"
+  },
+  {
+    "CountryName": "Estonia",
+    "CapitalName": "Tallinn",
+    "CapitalLatitude": "59.43333333333333",
+    "CapitalLongitude": "24.716667"
+  },
+  {
+    "CountryName": "Albania",
+    "CapitalName": "Tirana",
+    "CapitalLatitude": "41.31666666666667",
+    "CapitalLongitude": "19.816667"
+  },
+  {
+    "CountryName": "Liechtenstein",
+    "CapitalName": "Vaduz",
+    "CapitalLatitude": "47.13333333333333",
+    "CapitalLongitude": "9.516667"
+  },
+  {
+    "CountryName": "Malta",
+    "CapitalName": "Valletta",
+    "CapitalLatitude": "35.88333333333333",
+    "CapitalLongitude": "14.500000"
+  },
+  {
+    "CountryName": "Vatican City",
+    "CapitalName": "Vatican City",
+    "CapitalLatitude": "41.9",
+    "CapitalLongitude": "12.450000"
+  },
+  {
+    "CountryName": "Austria",
+    "CapitalName": "Vienna",
+    "CapitalLatitude": "48.2",
+    "CapitalLongitude": "16.366667"
+  },
+  {
+    "CountryName": "Lithuania",
+    "CapitalName": "Vilnius",
+    "CapitalLatitude": "54.68333333333333",
+    "CapitalLongitude": "25.316667"
+  },
+  {
+    "CountryName": "Poland",
+    "CapitalName": "Warsaw",
+    "CapitalLatitude": "52.25",
+    "CapitalLongitude": "21.000000"
+  },
+  {
+    "CountryName": "Croatia",
+    "CapitalName": "Zagreb",
+    "CapitalLatitude": "45.8",
+    "CapitalLongitude": "16.000000"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "applicationName": "Qodly Demo Weather",
+  "description": "Demo showing http usage to query a weather API",
+  "details": "Select a city to get current weather and forecast, all real time thanks to HTTP queries",
+  "visuals": [
+    {
+      "description": "Http example",
+      "image": "/$shared/visuals/http1.png"
+    },
+    {
+      "description": "Http example",
+      "image": "/$shared/visuals/http2.png"
+    },
+    {
+      "description": "Http example",
+      "image": "/$shared/visuals/http3.png"
+    }
+  ],
+  "logo": {
+    "small": "logo_small_path",
+    "large": "/$shared/logos/Q-2.svg"
+  },
+  "qodlyVersion": "all",
+  "author": {
+    "name": "Qodly",
+    "url": "https://www.qodly.com/"
+  },
+  "category": "Qodly starters",
+  "language": "English"
+}

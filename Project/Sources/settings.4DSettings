@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="3">
+	<com.4d>
+		<web>
+			<standalone_server>
+				<configuration publish_at_startup="true"/>
+				<rest launch_at_startup="true"/>
+				<qodlystudio enabled="true"/>
+			</standalone_server>
+		</web>
+		<compiler>
+			<options compilation_path="3"/>
+		</compiler>
+	</com.4d>
+</preferences>
